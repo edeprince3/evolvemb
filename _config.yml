@@ -3,3 +3,5 @@ plugins:
   
 remote_theme: vfvong/jekyll-theme-tao
 
+header_pages:
+  - publications.md
