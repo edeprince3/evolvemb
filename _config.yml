@@ -3,3 +3,7 @@ plugins:
   
 remote_theme: vfvong/jekyll-theme-tao
 
+
+baseurl: "" # the subpath of your site, e.g. /blog
+
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
