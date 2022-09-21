@@ -3,6 +3,3 @@ plugins:
   
 remote_theme: vfvong/jekyll-theme-tao
 
-
-- title: Publications
-  url: /publications.html
